@@ -1,7 +1,6 @@
-require "pry"
 def roll_call_dwarves(array)
-  binding.pry
   
+  puts array
 end
 
 def summon_captain_planet# code an argument here
